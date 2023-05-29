@@ -1,2 +1,2 @@
 # Timmy-Eks
-terrafrom eks code
+terraform eks code
